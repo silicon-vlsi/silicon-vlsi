@@ -5,17 +5,47 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 ## [LaunchLab Freshers Training](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training)
 This repository contains all the materials related to the basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design. This is the material used for training all New College Graduates (NCG) with no or minimum knowledge in VLSI.
 
+## [Introduction to SKILL Programming](https://github.com/silicon-vlsi/SKILL)
+This repository introduces users to basic SKILL programming.
+
+## [Introduction to LVS using Calibre](https://github.com/silicon-vlsi/LVS-RULEDECK-DESIGN/tree/main/LVS)
+
+## [RISC-V MYTH Workshop - Steve Hoover](https://github.com/silicon-vlsi/RISC-V_MYTH_Workshop)
+
 # Projects
 
 ## [Temperature Sensor (LM70) design cycle: Verilog-to-FPGA](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA)
 A system design project using Verilog and Xilinx FPGA development board. RTL to read a temperature sensor (LM70) using the SPI protocol. Synthesize and burn it into a Xilinx FPGA which is interfaced to a LM70 and the temperature is decoded and displayed on a 7-segment display.
 
+## [Analog Front-End (AFE) for a PT100 Temperature Sensor in HIMA temp chamber](https://github.com/silicon-vlsi-org/PT100-AFE-1)
+The goal of the project is to design and implement a AFE for PT100 temperature sensor that is embeddedd inside the temeperature chamber. The output is converted to the required dynamic range of a USB-based instrument Analog Discovery 2 (AD2). A Pyhton code is developed to read the ADC value from AD2 and onvert it to temperature in degree C. This, then can be used in temperature characterization of electronic systems. 
+
+## [Bandgap Reference in SKY130](https://github.com/silicon-vlsi/BGR_DESIGN_SKY130nm)
+Complete design, layout and characterization of a Bandgap reference using open-source EDA tools (ngspice/netgen/Magic) and open-source PDK (SKY130)
+
+## Project Volta : SPI/I2C/SRAM/BGR in 0.6um CMOS
+- [I2C](https://github.com/silicon-vlsi/VOLTA)
+
+## [Project Tesla (WIP)](https://github.com/silicon-vlsi/TESLA)
+
+## [Project Nuemann (Shelved)](https://github.com/silicon-vlsi/neumann)
 
 # Documentation
 
-## [Advanced VLSI Lab.i website](https://github.com/silicon-vlsi/silicon-vlsi.github.io)
-Jekyll repo for GitHub page for Advanced VLSI Lab website.
+- [Website: Advanced VLSI Lab](https://github.com/silicon-vlsi/silicon-vlsi.github.io): Jekyll repo for GitHub page for Advanced VLSI Lab website.
+- [Eagle PCB: A Quick Guide](https://github.com/silicon-vlsi/Learn-Eagle)
+- [Calibre Setup](https://github.com/silicon-vlsi/LVS-RULEDECK-DESIGN)
 
+
+# Course/Project/Mentoring Portals
+
+- [GPIO](https://github.com/silicon-vlsi/gpio)
+- [SIT 2024: Verilog SPI Temperature Project](https://github.com/silicon-vlsi/VLSI-2024)
+- [SIT 2021: Project Page](https://github.com/silicon-vlsi/Project2021)
+- [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI)
+- [SIT 2020: Project Page](https://github.com/silicon-vlsi/project2020)
+- [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T)
+ 
 
 <!---
 silicon-vlsi/silicon-vlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

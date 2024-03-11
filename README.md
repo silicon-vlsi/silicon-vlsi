@@ -31,14 +31,15 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # CAD/Technology
 
-- [ngspice](https://github.com/silicon-vlsi-org/eda-ngspice): Compiled `ngspice` source for Ubuntu 18.04
-- [netgen](https://github.com/silicon-vlsi-org/eda-netgen): Compiled `netgen` source for Ubuntu 18.04
-- [Magic](https://github.com/silicon-vlsi-org/eda-magic): Compiled `magic` sources for Ubuntu 18.04
+- [ngspice](https://github.com/silicon-vlsi-org/eda-ngspice): Compiled `ngspice` source for Ubuntu 22.04/18.04 & CentOS7
+- [netgen](https://github.com/silicon-vlsi-org/eda-netgen): Compiled `netgen` source for Ubuntu 22.04/18.04 & CentOS7
+- [Magic](https://github.com/silicon-vlsi-org/eda-magic): Compiled `magic` sources for Ubuntu 22.04/18.04 & CentOS7
 - [XSchem](https://github.com/silicon-vlsi-org/eda-xschem): Compiled sources for `xschem` schematic editor.
 - [Sue2Plus](https://github.com/silicon-vlsi-org/eda-sue2Plus): Sue2 schematic editor + Python/Matlab/Octave tool box
 - [Cadence](https://github.com/silicon-vlsi-org/eda-cadence): Information related to Cadence EDA tools eg. Virtuoso, ADE, Spectre, etc.
-- [VirtualBox](https://github.com/silicon-vlsi-org/eda-virtualmachine): Setting up Virtual Machines (Virtual Box) and setup open source EDA tools
 - [Technology](https://github.com/silicon-vlsi-org/eda-technology): Technology files for the open-source EDA tools.
+- [Open Source EDA on WSL](https://github.com/silicon-vlsi-org/eda-wsl2): Installing and setting up WSL2 on Windows 10/11 and installing open-source EDA tools on it.
+- [Open Source EDA on VirtualBox](https://github.com/silicon-vlsi-org/eda-virtualmachine): Setting up Virtual Machines (Virtual Box) and setup open source EDA tools.
 
 # Documentation
 

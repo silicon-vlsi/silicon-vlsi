@@ -51,6 +51,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Course/Project/Mentoring Portals
 
+- [SI-2024: Introduction to CubeSat and Satellite Communication](https://github.com/silicon-sat/SI-2024-CubeSat) : 2024 Summer internship course.
 - [GPIO](https://github.com/silicon-vlsi/gpio)
 - [SIT 2024: Verilog SPI Temperature Project](https://github.com/silicon-vlsi/VLSI-2024)
 - [SIT 2021: Project Page](https://github.com/silicon-vlsi/Project2021)

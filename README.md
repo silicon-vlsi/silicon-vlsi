@@ -49,16 +49,21 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Calibre Setup](https://github.com/silicon-vlsi/LVS-RULEDECK-DESIGN)
 
 
-# Course/Project/Mentoring Portals
+# Course Portals
 
 - [SI-2024: Introduction to CubeSat and Satellite Communication](https://github.com/silicon-sat/SI-2024-CubeSat) : 2024 Summer internship course.
-- [GPIO](https://github.com/silicon-vlsi/gpio)
-- [SIT 2024: Verilog SPI Temperature Project](https://github.com/silicon-vlsi/VLSI-2024)
-- [SIT 2021: Project Page](https://github.com/silicon-vlsi/Project2021)
-- [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI)
-- [SIT 2020: Project Page](https://github.com/silicon-vlsi/project2020)
-- [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T)
- 
+- [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI) : 2021 Summer Internship course.
+- [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T) : 2020 7th Sem VLSI Design course.
+
+# Project/Mentoring Portals
+
+- [Priyansu's Keyword Spotter](https://github.com/Priyansu122/Project_keywordSpotter) : Priyansu Sahoo's keyword spotter portal.
+- [Priyansu's RTL2GDS Flow Page](https://github.com/Priyansu122/SI2024_RTL_TO_GDS)
+- [Priyansu's FPGA Flow Page](https://github.com/Priyansu122/ASIC_FPGA_Design_Flow)
+- [GPIO](https://github.com/silicon-vlsi/gpio) : GPIO/I3C Project portal
+- [SIT 2024: Verilog SPI Temperature Project](https://github.com/silicon-vlsi/VLSI-2024) : 2024 Mentoring portal
+- [SIT 2021: Project Page](https://github.com/silicon-vlsi/Project2021) : 2021 Mentoring portal
+- [SIT 2020: Project Page](https://github.com/silicon-vlsi/project2020) : 2020 Mentoring portal
 
 <!---
 silicon-vlsi/silicon-vlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

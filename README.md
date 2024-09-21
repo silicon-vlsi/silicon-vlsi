@@ -60,6 +60,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Project/Mentoring Portals
 
+- [Analog Char](https://github.com/silicon-vlsi/LaunchLab-AnalogChar): LaunchLab Analog Characterization portal.
 - [Priyansu's Keyword Spotter](https://github.com/Priyansu122/Project_keywordSpotter) : Priyansu Sahoo's keyword spotter portal.
 - [Priyansu's RTL2GDS Flow Page](https://github.com/Priyansu122/SI2024_RTL_TO_GDS)
 - [Priyansu's FPGA Flow Page](https://github.com/Priyansu122/ASIC_FPGA_Design_Flow)

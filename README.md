@@ -16,6 +16,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Projects
 
+- [Tiny Tapeout Verilog Project: Digital Temperature Monitor](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07): This project is based on the same [FPGA Project](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA) below that was enhanced and ported to SKY130 using the TinyTapeout shuttle.
 - [Temperature Sensor (LM70) design cycle: Verilog-to-FPGA](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA): A system design project using Verilog and Xilinx FPGA development board. RTL to read a temperature sensor (LM70) using the SPI protocol. Synthesize and burn it into a Xilinx FPGA which is interfaced to a LM70 and the temperature is decoded and displayed on a 7-segment display.
 
 - [Analog Front-End (AFE) for a PT100 Temperature Sensor in HIMA temp chamber](https://github.com/silicon-vlsi-org/PT100-AFE-1): The goal of the project is to design and implement a AFE for PT100 temperature sensor that is embeddedd inside the temeperature chamber. The output is converted to the required dynamic range of a USB-based instrument Analog Discovery 2 (AD2). A Pyhton code is developed to read the ADC value from AD2 and onvert it to temperature in degree C. This, then can be used in temperature characterization of electronic systems. 
@@ -31,15 +32,21 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # CAD/Technology
 
-- [ngspice](https://github.com/silicon-vlsi-org/eda-ngspice): Compiled `ngspice` source for Ubuntu 18.04
-- [netgen](https://github.com/silicon-vlsi-org/eda-netgen): Compiled `netgen` source for Ubuntu 18.04
-- [Magic](https://github.com/silicon-vlsi-org/eda-magic): Compiled `magic` sources for Ubuntu 18.04
+- [ngspice](https://github.com/silicon-vlsi-org/eda-ngspice): Compiled `ngspice` source for Ubuntu 22.04/18.04 & CentOS7
+- [netgen](https://github.com/silicon-vlsi-org/eda-netgen): Compiled `netgen` source for Ubuntu 22.04/18.04 & CentOS7
+- [Magic](https://github.com/silicon-vlsi-org/eda-magic): Compiled `magic` sources for Ubuntu 22.04/18.04 & CentOS7
 - [XSchem](https://github.com/silicon-vlsi-org/eda-xschem): Compiled sources for `xschem` schematic editor.
 - [Sue2Plus](https://github.com/silicon-vlsi-org/eda-sue2Plus): Sue2 schematic editor + Python/Matlab/Octave tool box
 - [Cadence](https://github.com/silicon-vlsi-org/eda-cadence): Information related to Cadence EDA tools eg. Virtuoso, ADE, Spectre, etc.
+<<<<<<< HEAD
 - [VirtualBox](https://github.com/silicon-vlsi-org/eda-virtualmachine): Setting up Virtual Machines (Virtual Box) and setup open source EDA tools
 - [Technology](https://github.com/silicon-vlsi-org/eda-technology): Technology files for the open-source EDA tools. **sky130-hd-ttharden24** can used for RTL2GDS flow. It's from the local hardening of TinyTapeout design.
 - [RTL2GDS using openROAD](https://github.com/silicon-efabless/kws-genai-hw/tree/main/rtl2gds-tutorial): A quick tutorial for RTL2GDS using OpenROAD flow. 
+=======
+- [Technology](https://github.com/silicon-vlsi-org/eda-technology): Technology files for the open-source EDA tools.
+- [Open Source EDA on WSL](https://github.com/silicon-vlsi-org/eda-wsl2): Installing and setting up WSL2 on Windows 10/11 and installing open-source EDA tools on it.
+- [Open Source EDA on VirtualBox](https://github.com/silicon-vlsi-org/eda-virtualmachine): Setting up Virtual Machines (Virtual Box) and setup open source EDA tools.
+>>>>>>> 07b294d41bd6b46c78c7c77ff04d6eb368ea1b6f
 
 # Documentation
 
@@ -48,15 +55,21 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Calibre Setup](https://github.com/silicon-vlsi/LVS-RULEDECK-DESIGN)
 
 
-# Course/Project/Mentoring Portals
+# Course Portals
 
-- [GPIO](https://github.com/silicon-vlsi/gpio)
-- [SIT 2024: Verilog SPI Temperature Project](https://github.com/silicon-vlsi/VLSI-2024)
-- [SIT 2021: Project Page](https://github.com/silicon-vlsi/Project2021)
-- [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI)
-- [SIT 2020: Project Page](https://github.com/silicon-vlsi/project2020)
-- [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T)
- 
+- [SI-2024: Introduction to CubeSat and Satellite Communication](https://github.com/silicon-sat/SI-2024-CubeSat) : 2024 Summer internship course.
+- [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI) : 2021 Summer Internship course.
+- [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T) : 2020 7th Sem VLSI Design course.
+
+# Project/Mentoring Portals
+
+- [Priyansu's Keyword Spotter](https://github.com/Priyansu122/Project_keywordSpotter) : Priyansu Sahoo's keyword spotter portal.
+- [Priyansu's RTL2GDS Flow Page](https://github.com/Priyansu122/SI2024_RTL_TO_GDS)
+- [Priyansu's FPGA Flow Page](https://github.com/Priyansu122/ASIC_FPGA_Design_Flow)
+- [GPIO](https://github.com/silicon-vlsi/gpio) : GPIO/I3C Project portal
+- [SIT 2024: Verilog SPI Temperature Project](https://github.com/silicon-vlsi/VLSI-2024) : 2024 Mentoring portal
+- [SIT 2021: Project Page](https://github.com/silicon-vlsi/Project2021) : 2021 Mentoring portal
+- [SIT 2020: Project Page](https://github.com/silicon-vlsi/project2020) : 2020 Mentoring portal
 
 <!---
 silicon-vlsi/silicon-vlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon Institute of Technology](https://www.silicon.ac.in), Bhubaneswar.
+This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
 # Trainings
 
@@ -11,6 +11,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Introduction to Verilog](https://github.com/silicon-vlsi-org/module-ee2.301): Module EE2.301 (WIP)
 
 - [Introduction to Linux Commands](https://github.com/silicon-vlsi-org/module-cs3-301): Module CS 3.301 (WIP)
+
+- [Efbaless's 2-week ASIC Desing Course](https://github.com/efabless/chipcraft---mest-course): This course uses Steve Hoover's TL-Verilog to design and implement a RISC-V processor both in FPGA and ASIC.
 
 - [RISC-V MYTH Workshop - Steve Hoover](https://github.com/silicon-vlsi/RISC-V_MYTH_Workshop)
 

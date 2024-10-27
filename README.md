@@ -14,6 +14,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 - [RISC-V MYTH Workshop - Steve Hoover](https://github.com/silicon-vlsi/RISC-V_MYTH_Workshop)
 
+- [ChipCraft: The Art of Chip Design for Non-Experts](https://github.com/efabless/chipcraft---mest-course), Steve Hoover/EFabless, TL-Verilog, TinyTapeout
 # Projects
 
 - [Tiny Tapeout Verilog Project: Digital Temperature Monitor](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07): This project is based on the same [FPGA Project](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA) below that was enhanced and ported to SKY130 using the TinyTapeout shuttle.

@@ -12,11 +12,10 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 - [Introduction to Linux Commands](https://github.com/silicon-vlsi-org/module-cs3-301): Module CS 3.301 (WIP)
 
-- [Efbaless's 2-week ASIC Desing Course](https://github.com/efabless/chipcraft---mest-course): This course uses Steve Hoover's TL-Verilog to design and implement a RISC-V processor both in FPGA and ASIC.
-
 - [RISC-V MYTH Workshop - Steve Hoover](https://github.com/silicon-vlsi/RISC-V_MYTH_Workshop)
 
-- [ChipCraft: The Art of Chip Design for Non-Experts](https://github.com/efabless/chipcraft---mest-course), Steve Hoover/EFabless, TL-Verilog, TinyTapeout
+- [ChipCraft: The Art of Chip Design for Non-Experts](https://github.com/efabless/chipcraft---mest-course) Efbaless's 2-week ASIC Desing Course by Steve Hoover's TL-Verilog to design and implement a RISC-V processor both in FPGA and ASIC (TinyTapeout).
+
 # Projects
 
 - [Tiny Tapeout Verilog Project: Digital Temperature Monitor](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07): This project is based on the same [FPGA Project](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA) below that was enhanced and ported to SKY130 using the TinyTapeout shuttle.

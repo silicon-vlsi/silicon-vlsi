@@ -63,6 +63,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Project/Mentoring Portals
 
+- [Potentiostat](https://github.com/silicon-vlsi/potentiostat): Building a simplified potentiostat or a three-electrode electrochemical measurement system.
 - [Analog Char](https://github.com/silicon-vlsi/LaunchLab-AnalogChar): LaunchLab Analog Characterization portal.
 - [Priyansu's Keyword Spotter](https://github.com/Priyansu122/Project_keywordSpotter) : Priyansu Sahoo's keyword spotter portal.
 - [Priyansu's RTL2GDS Flow Page](https://github.com/Priyansu122/SI2024_RTL_TO_GDS)

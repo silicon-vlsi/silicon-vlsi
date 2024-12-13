@@ -1,6 +1,6 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
-# Trainings
+# Silicon Trainings
 
 - [LaunchLab Freshers Training](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training):  Basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design. This is the material used for training all New College Graduates (NCG) with no or minimum knowledge in VLSI.
 
@@ -13,10 +13,11 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Introduction to Linux Commands](https://github.com/silicon-vlsi-org/module-cs3-301): Module CS 3.301 (WIP)
 - [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
 
+# External Trainings
 - [GIAN Workshop 2024 IIT-BBS by Steve Hoover](https://github.com/stevehoover/gian-course)
 - [RISC-V MYTH Workshop - Steve Hoover](https://github.com/silicon-vlsi/RISC-V_MYTH_Workshop)
-
 - [ChipCraft: The Art of Chip Design for Non-Experts](https://github.com/efabless/chipcraft---mest-course) Efbaless's 2-week ASIC Desing Course by Steve Hoover's TL-Verilog to design and implement a RISC-V processor both in FPGA and ASIC (TinyTapeout).
+- [Analog Circuit Desing](https://iic-jku.github.io/analog-circuit-design/) at IIC-JKU, Austria, using open source tools *Xschem* and *ngspice* and opensource PDK *SG13G2* from IHP Microelectronics.
 
 # Projects
 

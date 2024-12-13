@@ -14,7 +14,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
 
 # External Trainings
-- [GIAN Workshop 2024 IIT-BBS by Steve Hoover](https://github.com/stevehoover/gian-course)
+- [GIAN Workshop 2024 IIT-BBS by Steve Hoover](https://github.com/silicon-vlsi/gian-course-2024-IITBBS)
 - [RISC-V MYTH Workshop - Steve Hoover](https://github.com/silicon-vlsi/RISC-V_MYTH_Workshop)
 - [ChipCraft: The Art of Chip Design for Non-Experts](https://github.com/efabless/chipcraft---mest-course) Efbaless's 2-week ASIC Desing Course by Steve Hoover's TL-Verilog to design and implement a RISC-V processor both in FPGA and ASIC (TinyTapeout).
 - [Analog Circuit Desing](https://iic-jku.github.io/analog-circuit-design/) at IIC-JKU, Austria, using open source tools *Xschem* and *ngspice* and opensource PDK *SG13G2* from IHP Microelectronics.

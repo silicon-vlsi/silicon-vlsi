@@ -1,5 +1,7 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
+**CURRENT ACTIVITIES**
+- [Practice School 2025 Sem 8](https://github.com/silicon-vlsi/PS-2025-S8)
 # Silicon Trainings
 
 - [LaunchLab Freshers Training](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training):  Basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design. This is the material used for training all New College Graduates (NCG) with no or minimum knowledge in VLSI.

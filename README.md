@@ -1,7 +1,13 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
 **CURRENT ACTIVITIES**
-- [Practice School 2025 Sem 8](https://github.com/silicon-vlsi/PS-2025-S8)
+- [PS 2025 Sem 8 CMOS](https://github.com/silicon-vlsi/PS-2025-S8) : CMOS VLSI training.
+- [PS 2025 Sem 8 AIedu](https://github.com/silicon-vlsi/AIedu) : AI-based assesment platform.
+- [PS 2025 Sem 8 TT06](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07) : Test development for TinyTapeout project Digital Temperature Monitor.
+- [PS 2025 Sem 8 HeartSound](https://github.com/silicon-vlsi/heart-sound) : AI-based heart sound monitoring.
+- [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
+- [Potentiostat](https://github.com/silicon-vlsi/potentiostat)
+- [KWS/HeartSound Monitor](https://github.com/silicon-vlsi/sound-analysis)
 # Silicon Trainings
 
 - [LaunchLab Freshers Training](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training):  Basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design. This is the material used for training all New College Graduates (NCG) with no or minimum knowledge in VLSI.

@@ -5,6 +5,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [PS 2025 Sem 8 AIedu](https://github.com/silicon-vlsi/AIedu) : AI-based assesment platform.
 - [PS 2025 Sem 8 TT06](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07) : Test development for TinyTapeout project Digital Temperature Monitor.
 - [PS 2025 Sem 8 HeartSound](https://github.com/silicon-vlsi/heart-sound) : AI-based heart sound monitoring.
+- [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : VLSI Mentoring portal for 2026 Silicon batch. 
 - [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
 - [Potentiostat](https://github.com/silicon-vlsi/potentiostat)
 - [KWS/HeartSound Monitor](https://github.com/silicon-vlsi/sound-analysis)

@@ -21,6 +21,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Introduction to Verilog](https://github.com/silicon-vlsi-org/module-ee2.301): Module EE2.301 (WIP)
 
 - [Introduction to Linux Commands](https://github.com/silicon-vlsi-org/module-cs3-301): Module CS 3.301 (WIP)
+- [Introduction to Linux Scripting](https://github.com/VLSI-LaunchLab/Intro-to-Linux-Scripting)
+- [AI Python for Beginners](https://github.com/VLSI-LaunchLab/AI-Python-for-Beginners)
 - [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
 
 # External Trainings

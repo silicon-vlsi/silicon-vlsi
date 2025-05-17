@@ -57,6 +57,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Sue2Plus](https://github.com/silicon-vlsi-org/eda-sue2Plus): Sue2 schematic editor + Python/Matlab/Octave tool box
 - [Cadence](https://github.com/silicon-vlsi-org/eda-cadence): Information related to Cadence EDA tools eg. Virtuoso, ADE, Spectre, etc.
 - [VirtualBox](https://github.com/silicon-vlsi-org/eda-virtualmachine): Setting up Virtual Machines (Virtual Box) and setup open source EDA tools
+- [SKY130 for Analog Design in Xschem](https://github.com/silicon-vlsi-org/pdk-sky130-ana): A subset of SKY130 to do analog design using xschem and ngspice
 - [Technology](https://github.com/silicon-vlsi-org/eda-technology): Technology files for the open-source EDA tools. **sky130-hd-ttharden24** can used for RTL2GDS flow. It's from the local hardening of TinyTapeout design.
 - [RTL2GDS using openROAD](https://github.com/silicon-efabless/kws-genai-hw/tree/main/rtl2gds-tutorial): A quick tutorial for RTL2GDS using OpenROAD flow. 
 - [Technology](https://github.com/silicon-vlsi-org/eda-technology): Technology files for the open-source EDA tools.

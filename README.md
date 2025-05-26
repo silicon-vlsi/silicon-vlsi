@@ -1,7 +1,8 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
 **CURRENT ACTIVITIES**
-- [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC)
+- [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC): Summer Internship course "Analog IC Design"
+- [SI 2025 Digital VLSI](https://github.com/silicon-vlsi/SI-2025-DigitalVLSI): Summer Internship course "Digital VLSI Design from Verilog RTL and Verification to Synthesis"
 - [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : VLSI Mentoring portal for 2026 Silicon batch.
 - [PS 2025 Sem 8 CMOS](https://github.com/silicon-vlsi/PS-2025-S8) : CMOS VLSI training.
 - [PS 2025 Sem 8 AIedu](https://github.com/silicon-vlsi/AIedu) : AI-based assesment platform.

@@ -3,6 +3,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 **CURRENT ACTIVITIES**
 - CHIPATHON 2025
   - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)
+    - [Fork of Official page](https://github.com/silicon-vlsi/sscs-chipathon-2025-D14)
   - [Mentoring page for Silicon participants](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI)
   - [Member (srout) Chipathon page from template](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI-sroutk)
 - [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC): Summer Internship course "Analog IC Design"

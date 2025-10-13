@@ -1,6 +1,8 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
 **CURRENT ACTIVITIES**
+
+- [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
 - CHIPATHON 2025
   - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)
     - [Fork of Official page](https://github.com/silicon-vlsi/sscs-chipathon-2025-D14)
@@ -17,6 +19,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
 - [Potentiostat](https://github.com/silicon-vlsi/potentiostat)
 - [KWS/HeartSound Monitor](https://github.com/silicon-vlsi/sound-analysis)
+
 # Silicon Trainings
 
 - [LaunchLab Freshers Training](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training):  Basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design. This is the material used for training all New College Graduates (NCG) with no or minimum knowledge in VLSI.

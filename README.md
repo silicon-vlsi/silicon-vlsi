@@ -8,17 +8,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
     - [Fork of Official page](https://github.com/silicon-vlsi/sscs-chipathon-2025-D14)
   - [Mentoring page for Silicon participants](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI)
   - [Member (srout) Chipathon page from template](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI-sroutk)
-- [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC): Summer Internship course "Analog IC Design"
-- [SI 2025 Digital VLSI](https://github.com/silicon-vlsi/SI-2025-DigitalVLSI): Summer Internship course "Digital VLSI Design from Verilog RTL and Verification to Synthesis"
 - [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : VLSI Mentoring portal for 2026 Silicon batch.
-- [PS 2025 Sem 8 CMOS](https://github.com/silicon-vlsi/PS-2025-S8) : CMOS VLSI training.
-- [PS 2025 Sem 8 AIedu](https://github.com/silicon-vlsi/AIedu) : AI-based assesment platform.
-- [PS 2025 Sem 8 TT06](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07) : Test development for TinyTapeout project Digital Temperature Monitor.
-  - [Introduction to RP2040 and using it as a SPI slave](https://github.com/03jayashree/rp2040-spi-temperature) : A valuable project showing the use of PIO in RP2040 to use it as a SPI slave.
-- [PS 2025 Sem 8 HeartSound](https://github.com/silicon-vlsi/heart-sound) : AI-based heart sound monitoring.
-- [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
-- [Potentiostat](https://github.com/silicon-vlsi/potentiostat)
-- [KWS/HeartSound Monitor](https://github.com/silicon-vlsi/sound-analysis)
+
 
 # Silicon Trainings
 
@@ -82,12 +73,23 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Course Portals
 
+- [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC): Summer Internship course "Analog IC Design"
+- [SI 2025 Digital VLSI](https://github.com/silicon-vlsi/SI-2025-DigitalVLSI): Summer Internship course "Digital VLSI Design from Verilog RTL and Verification to Synthesis"
 - [SI-2024: Introduction to CubeSat and Satellite Communication](https://github.com/silicon-sat/SI-2024-CubeSat) : 2024 Summer internship course.
 - [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI) : 2021 Summer Internship course.
 - [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T) : 2020 7th Sem VLSI Design course.
 
 # Project/Mentoring Portals
 
+- [PS 2025 Sem 8 CMOS](https://github.com/silicon-vlsi/PS-2025-S8) : CMOS VLSI training.
+- [PS 2025 Sem 8 AIedu](https://github.com/silicon-vlsi/AIedu) : AI-based assesment platform.
+- [PS 2025 Sem 8 TT06](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07) : Test development for TinyTapeout project Digital Temperature Monitor.
+  - [Introduction to RP2040 and using it as a SPI slave](https://github.com/03jayashree/rp2040-spi-temperature) : A valuable project showing the use of PIO in RP2040 to use it as a SPI slave.
+- [PS 2025 Sem 8 HeartSound](https://github.com/silicon-vlsi/heart-sound) : AI-based heart sound monitoring.
+- [Introduction to CocoTB](https://github.com/silicon-vlsi/Intro2Cocotb)
+- [Potentiostat](https://github.com/silicon-vlsi/potentiostat)
+- [KWS/HeartSound Monitor](https://github.com/silicon-vlsi/sound-analysis)
+- [PS 2025 Project: 8T SRAM InCompute Memory](https://github.com/silicon-vlsi/PS-2025-RAM)
 - [Potentiostat](https://github.com/silicon-vlsi/potentiostat): Building a simplified potentiostat or a three-electrode electrochemical measurement system.
 - [Analog Char](https://github.com/silicon-vlsi/LaunchLab-AnalogChar): LaunchLab Analog Characterization portal.
 - [Priyansu's Keyword Spotter](https://github.com/Priyansu122/Project_keywordSpotter) : Priyansu Sahoo's keyword spotter portal.

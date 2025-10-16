@@ -2,6 +2,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 **CURRENT ACTIVITIES**
 
+- [TT SKY25b SRAM](https://github.com/silicon-vlsi/TTSKY25b-SRAM/)
 - [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
 - CHIPATHON 2025
   - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)

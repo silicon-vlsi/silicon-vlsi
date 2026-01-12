@@ -9,11 +9,6 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 **SHELVED ACTIVITES**
 - [TT SKY25b SRAM](https://github.com/silicon-vlsi/ttsky25b-imc-sram/)
-- CHIPATHON 2025
-  - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)
-    - [Fork of Official page](https://github.com/silicon-vlsi/sscs-chipathon-2025-D14)
-  - [Mentoring page for Silicon participants](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI)
-  - [Member (srout) Chipathon page from template](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI-sroutk)
 - [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : VLSI Mentoring portal for 2026 Silicon batch.
 
 
@@ -40,8 +35,10 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Projects
 
+- [Chipathon 2025](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI) project portal for Silicon participants.
+  - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)
 - [Tiny Tapeout Verilog Project: Digital Temperature Monitor](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07): This project is based on the same [FPGA Project](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA) below that was enhanced and ported to SKY130 using the TinyTapeout shuttle.
-- [Temperature Sensor (LM70) design cycle: Verilog-to-FPGA](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA): A system design project using Verilog and Xilinx FPGA development board. RTL to read a temperature sensor (LM70) using the SPI protocol. Synthesize and burn it into a Xilinx FPGA which is interfaced to a LM70 and the temperature is decoded and displayed on a 7-segment display.
+  - [Temperature Sensor (LM70) design cycle: Verilog-to-FPGA](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA): This is the same project as above that was targetting FPGA. 
 
 - [Analog Front-End (AFE) for a PT100 Temperature Sensor in HIMA temp chamber](https://github.com/silicon-vlsi-org/PT100-AFE-1): The goal of the project is to design and implement a AFE for PT100 temperature sensor that is embeddedd inside the temeperature chamber. The output is converted to the required dynamic range of a USB-based instrument Analog Discovery 2 (AD2). A Pyhton code is developed to read the ADC value from AD2 and onvert it to temperature in degree C. This, then can be used in temperature characterization of electronic systems. 
 

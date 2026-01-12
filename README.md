@@ -59,6 +59,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [ngspice](https://github.com/silicon-vlsi-org/eda-ngspice): Compiled `ngspice` source for Ubuntu 22.04/18.04 & CentOS7
 - [netgen](https://github.com/silicon-vlsi-org/eda-netgen): Compiled `netgen` source for Ubuntu 22.04/18.04 & CentOS7
 - [Magic](https://github.com/silicon-vlsi-org/eda-magic): Compiled `magic` sources for Ubuntu 22.04/18.04 & CentOS7
+  - [Magic GitHub Page Documentation](https://github.com/subhransu-01/sky130-magic) by Subhransu Das. Some of the learnings from Chipathon 2025 are integrated into this document.
 - [XSchem](https://github.com/silicon-vlsi-org/eda-xschem): Compiled sources for `xschem` schematic editor.
 - [Sue2Plus](https://github.com/silicon-vlsi-org/eda-sue2Plus): Sue2 schematic editor + Python/Matlab/Octave tool box
 - [Cadence](https://github.com/silicon-vlsi-org/eda-cadence): Information related to Cadence EDA tools eg. Virtuoso, ADE, Spectre, etc.

@@ -4,6 +4,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 - [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
 - [1-TOPS](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
+- **Chipathon 2026**
+  - [Chipathon Read-the-Docs Repository](https://github.com/sscs-ose/sscs-chipathon-docs/)
 - [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
 - [VLSI Lab on Raspberry Pi 500+](https://github.com/silicon-vlsi/vlab-rpi)
 

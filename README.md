@@ -4,6 +4,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 - [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
 - [1-TOPS](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
+  - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
 - **Chipathon 2026**
   - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
   - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)]
@@ -42,6 +43,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 - [Chipathon 2025](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI) project portal for Silicon participants.
   - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)
+  - [Chipathon 2025 Github Template](https://github.com/Jianxun/iic-osic-tools-project-template)
 - [Tiny Tapeout Verilog Project: Digital Temperature Monitor](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07): This project is based on the same [FPGA Project](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA) below that was enhanced and ported to SKY130 using the TinyTapeout shuttle.
   - [Temperature Sensor (LM70) design cycle: Verilog-to-FPGA](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA): This is the same project as above that was targetting FPGA. 
 

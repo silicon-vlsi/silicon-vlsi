@@ -3,9 +3,11 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 **CURRENT ACTIVITIES**
 
 - [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
-- [1-TOPS](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
+- **1-TOPS**
+  - [1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
   - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
 - **Chipathon 2026**
+  - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
   - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)]
 - [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)

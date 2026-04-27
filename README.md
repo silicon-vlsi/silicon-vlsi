@@ -7,6 +7,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - [1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
   - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
 - **Chipathon 2026**
+  - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026}
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
   - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)]

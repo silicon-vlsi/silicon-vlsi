@@ -17,8 +17,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 **SHELVED ACTIVITES**
 - [TT SKY25b SRAM](https://github.com/silicon-vlsi/ttsky25b-imc-sram/)
-- [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : VLSI Mentoring portal for 2026 Silicon batch.
-
+- [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : Contains sessions from **Sujit Panda** and some really valuable Verilog references.
 
 # Silicon Trainings
 

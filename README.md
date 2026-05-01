@@ -43,7 +43,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Projects
 
-- [Chipathon 2025](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI) project portal for Silicon participants.
+- [Chipathon 2025](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI) project portal for Silicon participant where resources were shared.
+  - [Chipathon2025 template repo for SILICON_BBI](https://github.com/silicon-vlsi/chipathon25-SILICON_BBI-sroutk): This is the template repo with all the **official design** files.
   - [Official Chipathon 2025 Github Page](https://github.com/sscs-ose/sscs-chipathon-2025)
   - [Chipathon 2025 Github Template](https://github.com/Jianxun/iic-osic-tools-project-template)
 - [Tiny Tapeout Verilog Project: Digital Temperature Monitor](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07): This project is based on the same [FPGA Project](https://github.com/silicon-vlsi/LM70-Interfacing-FPGA) below that was enhanced and ported to SKY130 using the TinyTapeout shuttle.

@@ -2,7 +2,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 **CURRENT ACTIVITIES**
 
-- [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
+- [SI 2026 Analog IC](https://github.com/silicon-vlsi/SI-2026-AnalogIC)
 - **1-TOPS**
   - [1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
   - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
@@ -11,12 +11,13 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC
   - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
-  - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)]
-- [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
+  - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)] 
+- [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
 - [VLSI Lab on Raspberry Pi 500+](https://github.com/silicon-vlsi/vlab-rpi)
 
 
 **SHELVED ACTIVITES**
+- [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
 - [TT SKY25b SRAM](https://github.com/silicon-vlsi/ttsky25b-imc-sram/)
 - [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : Contains sessions from **Sujit Panda** and some really valuable Verilog references.
 

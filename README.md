@@ -10,6 +10,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC
+  - [GF180 librelane template from WaferSpace](https://github.com/wafer-space/gf180mcu-project-template)
   - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
   - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)] 
 - [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.

@@ -3,6 +3,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 **CURRENT ACTIVITIES**
 
 - [SI 2026 Analog IC](https://github.com/silicon-vlsi/SI-2026-AnalogIC)
+  - [SI 2026 Analog IC template for students](https://github.com/silicon-vlsi/si2026-analog-notebook/)
 - **1-TOPS**
   - [1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
   - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.

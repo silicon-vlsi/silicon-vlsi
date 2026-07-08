@@ -2,21 +2,23 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 **CURRENT ACTIVITIES**
 
-- [SI 2026 Analog IC](https://github.com/silicon-vlsi/SI-2026-AnalogIC)
-  - [SI 2026 Analog IC template for students](https://github.com/silicon-vlsi/si2026-analog-notebook/)
-- **1-TOPS**
-  - [1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
-  - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
 - **Chipathon 2026**
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
-  - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC
-  - [GF180 librelane template from WaferSpace](https://github.com/wafer-space/gf180mcu-project-template)
-  - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
-  - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)] 
-- [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
+  - **Team Repos**
+    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [[Fork-Pending]()] [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
+    - [A29 SILICON_DAC](https://github.com/sameer-code05/8-Bit-Current-steering-DAC-Chipathon_2026) [[Fork-Pending]()] [[Issue#90](https://github.com/sscs-ose/sscs-chipathon-2026/issues/90)]
+    - [A30 SILCON_RISC-V](https://github.com/dev65808/chipathon-2026-SILICON_RISC-V) [[Fork-Pending]()] [[Issue#95](https://github.com/sscs-ose/sscs-chipathon-2026/issues/95)]
+    - [A31 SILICON_SAR-ADC (PENDING)]()  [[Fork-Pending]()] [[Issue#97](https://github.com/sscs-ose/sscs-chipathon-2026/issues/97)]
+  - **Useful Resources**:
+    - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC
+    - [GF180 librelane template from WaferSpace](https://github.com/wafer-space/gf180mcu-project-template)
+    - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
+    - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)] 
+-  **1-TOPS**
+  - 1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
+  - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
 - [VLSI Lab on Raspberry Pi 500+](https://github.com/silicon-vlsi/vlab-rpi)
-
 
 **SHELVED ACTIVITES**
 - [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
@@ -92,14 +94,16 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # Course Portals
 
-- [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC): Summer Internship course "Analog IC Design"
-- [SI 2025 Digital VLSI](https://github.com/silicon-vlsi/SI-2025-DigitalVLSI): Summer Internship course "Digital VLSI Design from Verilog RTL and Verification to Synthesis"
+- [SI 2026 Analog IC Design](https://github.com/silicon-vlsi/SI-2026-AnalogIC): 2026 Summer Internship course "Analog IC Design" ([Student Notebook template](https://github.com/silicon-vlsi/si2026-analog-notebook/))
+- [SI 2025 Analog IC Design](https://github.com/silicon-vlsi/SI-2025-AnalogIC): 2025 Summer Internship course "Analog IC Design"
+- [SI 2025 Digital VLSI](https://github.com/silicon-vlsi/SI-2025-DigitalVLSI): 2025 Summer Internship course "Digital VLSI Design from Verilog RTL and Verification to Synthesis"
 - [SI-2024: Introduction to CubeSat and Satellite Communication](https://github.com/silicon-sat/SI-2024-CubeSat) : 2024 Summer internship course.
 - [SI-2021-03: Digital CMOS VLSI Design](https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI) : 2021 Summer Internship course.
 - [15VLSI7T: VLSI Design Course, 7th Sem. AEI, 2020](https://github.com/silicon-vlsi/15VLSI7T) : 2020 7th Sem VLSI Design course.
 
 # Project/Mentoring Portals
 
+- [PS-2026-S8](https://github.com/silicon-vlsi/PS-2026-S8): 2026 Practice School portal.
 - [PS 2025 Sem 8 CMOS](https://github.com/silicon-vlsi/PS-2025-S8) : CMOS VLSI training.
 - [PS 2025 Sem 8 AIedu](https://github.com/silicon-vlsi/AIedu) : AI-based assesment platform.
 - [PS 2025 Sem 8 TT06](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07) : Test development for TinyTapeout project Digital Temperature Monitor.

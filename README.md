@@ -8,7 +8,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - **Team Repos**
     - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [[Fork-Pending]()] [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
     - [A29 SILICON_DAC](https://github.com/sameer-code05/8-Bit-Current-steering-DAC-Chipathon_2026) [[Fork-Pending]()] [[Issue#90](https://github.com/sscs-ose/sscs-chipathon-2026/issues/90)]
-    - [A30 SILCON_RISC-V](https://github.com/dev65808/chipathon-2026-SILICON_RISC-V) [[Fork-Pending]()] [[Issue#95](https://github.com/sscs-ose/sscs-chipathon-2026/issues/95)]
+    - [A30 SILCON_RISC-V](https://github.com/dev65808/chipathon-2026-SILICON_RISC-V) [[Fork](https://github.com/silicon-vlsi/chipathon-2026-SILICON_RISC-V)] [[Issue#95](https://github.com/sscs-ose/sscs-chipathon-2026/issues/95)]
+      - [TT10 TinyQV](https://github.com/silicon-vlsi/tt10-tinyQV) : QSPI memory IP reference.
     - [A31 SILICON_SAR-ADC (PENDING)]()  [[Fork-Pending]()] [[Issue#97](https://github.com/sscs-ose/sscs-chipathon-2026/issues/97)]
   - **Useful Resources**:
     - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC

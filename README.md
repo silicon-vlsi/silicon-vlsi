@@ -1,6 +1,6 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
-**CURRENT ACTIVITIES**
+# Current Activities
 
 - **Chipathon 2026**
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))

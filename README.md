@@ -3,6 +3,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 # Current Activities
 
 - **Chipalooza**
+  - [Zoom Meeting for the reviews](https://us06web.zoom.us/j/83762888128?pwd=GYPjFOYBWipsD3WUgGOHCfkMVlbsWl.1&jst=2)
+  - [Meeting Google Sheet](https://docs.google.com/spreadsheets/d/1yVw0aOvGSy883xsDKw5JQ8AyoblU5MHEEqPTjjO8hMU/edit?usp=sharing)
   - https://opencircuitdesign.com/chipalooza/
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_openframe
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_ip__biasgen

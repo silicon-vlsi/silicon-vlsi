@@ -8,6 +8,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - https://opencircuitdesign.com/chipalooza/
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_openframe
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_ip__biasgen
+  - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza
 - **Chipathon 2026**
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)

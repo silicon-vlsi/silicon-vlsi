@@ -3,12 +3,16 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 # Current Activities
 
 - **Chipalooza**
-  - [Zoom Meeting for the reviews](https://us06web.zoom.us/j/83762888128?pwd=GYPjFOYBWipsD3WUgGOHCfkMVlbsWl.1&jst=2)
+  - https://github.com/srout/sg13cmos5l_srout_ip__tinyBGR
+  - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza : Official chipalooza harness
+    - Wrapper slots in `magic/` directory with the name `slot15_wrapper.mag`
+    - Name my top level layout `sg13cmos5l_srout_ip__tinyBGR` and place it in `slot15_wrapper.mag`
+    - Place `slot15_wrapper.mag` in `final/gds/` of my repo `sg13cmos5l_srout_ip__tinyBGR`
   - [Meeting Google Sheet](https://docs.google.com/spreadsheets/d/1yVw0aOvGSy883xsDKw5JQ8AyoblU5MHEEqPTjjO8hMU/edit?usp=sharing)
   - https://opencircuitdesign.com/chipalooza/
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_openframe
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_ip__biasgen
-  - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza
+  - 
 - **Chipathon 2026**
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)

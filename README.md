@@ -17,7 +17,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - **Team Repos**
-    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [https://github.com/silicon-vlsi/chipathon-2026-Silicon_BGR] [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
+    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [Fork](https://github.com/silicon-vlsi-org/chipathon-2026-Silicon_BGR) [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
     - [A30 SILCON_RISC-V](https://github.com/dev65808/chipathon-2026-SILICON_RISC-V) [[Fork](https://github.com/silicon-vlsi/chipathon-2026-SILICON_RISC-V)] [[Issue#95](https://github.com/sscs-ose/sscs-chipathon-2026/issues/95)]
       - [TT10 TinyQV](https://github.com/silicon-vlsi/tt10-tinyQV) : QSPI memory IP reference.
 

@@ -17,11 +17,10 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - **Team Repos**
-    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [[Fork-Pending]()] [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
-    - [A29 SILICON_DAC](https://github.com/sameer-code05/8-Bit-Current-steering-DAC-Chipathon_2026) [[Fork-Pending]()] [[Issue#90](https://github.com/sscs-ose/sscs-chipathon-2026/issues/90)]
+    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [https://github.com/silicon-vlsi/chipathon-2026-Silicon_BGR] [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
     - [A30 SILCON_RISC-V](https://github.com/dev65808/chipathon-2026-SILICON_RISC-V) [[Fork](https://github.com/silicon-vlsi/chipathon-2026-SILICON_RISC-V)] [[Issue#95](https://github.com/sscs-ose/sscs-chipathon-2026/issues/95)]
       - [TT10 TinyQV](https://github.com/silicon-vlsi/tt10-tinyQV) : QSPI memory IP reference.
-    - [A31 SILICON_SAR-ADC (PENDING)]()  [[Fork-Pending]()] [[Issue#97](https://github.com/sscs-ose/sscs-chipathon-2026/issues/97)]
+
   - **Useful Resources**:
     - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC
     - [GF180 librelane template from WaferSpace](https://github.com/wafer-space/gf180mcu-project-template)
@@ -36,6 +35,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 - [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)
 - [TT SKY25b SRAM](https://github.com/silicon-vlsi/ttsky25b-imc-sram/)
 - [VLSI 2026 Mentoring Portal](https://github.com/silicon-vlsi/VLSI-2026) : Contains sessions from **Sujit Panda** and some really valuable Verilog references.
+-  [A29 SILICON_DAC](https://github.com/sameer-code05/8-Bit-Current-steering-DAC-Chipathon_2026) [[Fork-Pending]()] [[Issue#90](https://github.com/sscs-ose/sscs-chipathon-2026/issues/90)]
+-  [A31 SILICON_SAR-ADC (PENDING)]()  [[Fork-Pending]()] [[Issue#97](https://github.com/sscs-ose/sscs-chipathon-2026/issues/97)]
 
 # Silicon Trainings
 

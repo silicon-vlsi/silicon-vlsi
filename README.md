@@ -1,7 +1,8 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
 # Current Activities
-
+- **Practice School 2026-27 7-8 Sem**
+  - [Official Repo](https://github.com/silicon-vlsi/PS-2026-S8)
 - **Chipalooza**
   - https://github.com/srout/sg13cmos5l_srout_ip__tinyBGR
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza : Official chipalooza harness

@@ -1,8 +1,11 @@
 This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https://silicon-vlsi.github.io) at [Silicon University](https://www.silicon.ac.in), Bhubaneswar.
 
 # Current Activities
-- **Practice School 2026-27 7-8 Sem**
-  - [Official Repo](https://github.com/silicon-vlsi/PS-2026-S8)
+
+- **1-TOPS**
+  - [Project Neumann](https://github.com/silicon-vlsi/neumann): Official repo.
+  - [1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
+- [**Practice School 2026-27 7-8 Sem**](https://github.com/silicon-vlsi/PS-2026-S8)
 - **Chipalooza**
   - https://github.com/srout/sg13cmos5l_srout_ip__tinyBGR
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza : Official chipalooza harness
@@ -13,24 +16,21 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
   - https://opencircuitdesign.com/chipalooza/
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_openframe
   - https://github.com/RTimothyEdwards/sg13cmos5l_ocd_ip__biasgen
-  - 
 - **Chipathon 2026**
-  - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork for contrib](https://github.com/silicon-vlsi/sscs-chipathon-2026))
+  - [Official Chipathon 2026 GitHub Page](https://github.com/sscs-ose/sscs-chipathon-2026) ([Fork](https://github.com/silicon-vlsi/sscs-chipathon-2026))
   - [Chipathon 2026 portal for Silicon participant](https://github.com/silicon-vlsi/chipathon26-SILICON_BBI)
   - **Team Repos**
-    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [Fork](https://github.com/silicon-vlsi-org/chipathon-2026-Silicon_BGR) [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)]
     - [A30 SILCON_RISC-V](https://github.com/dev65808/chipathon-2026-SILICON_RISC-V) [[Fork](https://github.com/silicon-vlsi/chipathon-2026-SILICON_RISC-V)] [[Issue#95](https://github.com/sscs-ose/sscs-chipathon-2026/issues/95)]
       - [TT10 TinyQV](https://github.com/silicon-vlsi/tt10-tinyQV) : QSPI memory IP reference.
+    - [A28 SILICON_BGR](https://github.com/Rani340/chipathon-2026-Silicon_BGR) [[Issue#98](https://github.com/sscs-ose/sscs-chipathon-2026/issues/98)] **ABANDONED**
 
   - **Useful Resources**:
     - [Template for SoC Automation](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template): JKU-AMS Labs collaborative initiative to automate entire SoC
     - [GF180 librelane template from WaferSpace](https://github.com/wafer-space/gf180mcu-project-template)
     - [Chipathon Read-the-Docs GitHub Repo](https://github.com/sscs-ose/sscs-chipathon-docs/) [[RTD](https://sscs-chipathon-docs.readthedocs.io)]
     - [Chipathon-RTD sandbox Repo](https://github.com/silicon-vlsi/chipathon2026-RTD) [[RTD](https://chipathon2026-RTD.readthedocs.io)] 
--  **1-TOPS**
-  - 1-TOPS portal for Silicon Particiapnt](https://github.com/silicon-vlsi/1-TOPS-SILICON/)
-  - [Project Neumann](https://github.com/silicon-vlsi/neumann): Main repo for the digital top of the microcontroller.
-- [VLSI Lab on Raspberry Pi 500+](https://github.com/silicon-vlsi/vlab-rpi)
+
+- [**VLSI Lab on Raspberry Pi 500+**](https://github.com/silicon-vlsi/vlab-rpi)
 
 **SHELVED ACTIVITES**
 - [Open-Source Standard Cell Development](https://github.com/silicon-vlsi/gf180mcu_as_7t3v3_ocd_io)

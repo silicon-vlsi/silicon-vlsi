@@ -85,6 +85,7 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 # CAD/Technology
 
+- [IIC OSIC-TOOLS](https://github.com/iic-jku/iic-osic-tools) is an all-in-one Docker/Podman container for open-source-based integrated circuit designs for analog and digital circuit flows. 
 - [ngspice](https://github.com/silicon-vlsi-org/eda-ngspice): Compiled `ngspice` source for Ubuntu 22.04/18.04 & CentOS7
 - [netgen](https://github.com/silicon-vlsi-org/eda-netgen): Compiled `netgen` source for Ubuntu 22.04/18.04 & CentOS7
 - [Magic](https://github.com/silicon-vlsi-org/eda-magic): Compiled `magic` sources for Ubuntu 22.04/18.04 & CentOS7

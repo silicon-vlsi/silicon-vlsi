@@ -4,6 +4,8 @@ This repo mostly hosts courses and projects from the [Advanced VLSI Lab](https:/
 
 - [LaunchLab Freshers Training](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training):  Basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design. This is the material used for training all New College Graduates (NCG) with no or minimum knowledge in VLSI.
 
+- [RTL-DV Training Manual](RTL-DV-TrainingManual.md): FIXME: Create a repo for this training module.
+
 - [Introduction to SKILL Programming](https://github.com/silicon-vlsi/SKILL): Introduces users to basic SKILL programming.
 
 - [Introduction to LVS using Calibre](https://github.com/silicon-vlsi/LVS-RULEDECK-DESIGN/tree/main/LVS)
